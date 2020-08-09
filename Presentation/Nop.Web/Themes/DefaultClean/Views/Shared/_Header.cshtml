@@ -1,0 +1,53 @@
+﻿<nav id="top">
+    <div class="container">
+        <div class="header-top-left">
+            <div class="header-left-cms">
+                <aside id="header-left">
+                    <div class="html-content">
+                        <div class="box-content">
+                            <div id="ttcmsheader">
+                               
+                            </div>
+                        </div>
+                    </div>
+
+                </aside>
+
+            </div>
+        </div>
+
+
+
+        <div class="header-top-right">
+            <div id="top-links" class="nav pull-right">
+                @await Component.InvokeAsync("HeaderLinks")
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="header">
+   
+    <div class="header-upper">
+        <div class="header-selectors-wrapper">
+            @await Component.InvokeAsync("TaxTypeSelector")
+            @await Component.InvokeAsync("CurrencySelector")
+            @await Component.InvokeAsync("LanguageSelector")
+            @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderSelectors })
+        </div>
+        <div class="header-links-wrapper">
+           
+            @await Component.InvokeAsync("FlyoutShoppingCart")
+        </div>
+    </div>
+    @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderMiddle })
+    <div class="header-lower">
+        <div class="header-logo">
+            @await Component.InvokeAsync("Logo")
+        </div>
+        <div class="search-box store-search-box">
+            @await Component.InvokeAsync("SearchBox")
+        </div>
+    </div>
+    @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderAfter })
+</div>
