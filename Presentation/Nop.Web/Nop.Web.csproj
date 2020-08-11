@@ -52,6 +52,7 @@
     <Content Remove="Themes\DefaultClean\Content\css\StyleSheet.css" />
     <None Remove="Themes\DefaultClean\Views\Shared\_Header.cshtml" />
     <None Remove="Themes\electronics-shop-theme\Views\Home\Index.cshtml" />
+    <None Remove="Themes\electronics-shop-theme\Views\_Header.cshtml" />
 
     <None Update="Areas\Admin\sitemap.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

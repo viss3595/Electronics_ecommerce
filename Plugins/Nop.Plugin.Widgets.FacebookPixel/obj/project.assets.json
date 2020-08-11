@@ -4282,7 +4282,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Web.Framework.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -12715,11 +12718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\Nop.Plugin.Widgets.FacebookPixel.csproj",
+      "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\Nop.Plugin.Widgets.FacebookPixel.csproj",
       "projectName": "Nop.Plugin.Widgets.FacebookPixel",
-      "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\Nop.Plugin.Widgets.FacebookPixel.csproj",
+      "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\Nop.Plugin.Widgets.FacebookPixel.csproj",
       "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\obj\\",
+      "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12738,8 +12741,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web\\Nop.Web.csproj"
             }
           }
         }

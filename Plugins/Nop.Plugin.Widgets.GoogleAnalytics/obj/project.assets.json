@@ -12694,11 +12694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
+      "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
       "projectName": "Nop.Plugin.Widgets.GoogleAnalytics",
-      "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
+      "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\Nop.Plugin.Widgets.GoogleAnalytics.csproj",
       "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\obj\\",
+      "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Widgets.GoogleAnalytics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12717,8 +12717,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

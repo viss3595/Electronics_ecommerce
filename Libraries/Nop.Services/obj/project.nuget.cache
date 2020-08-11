@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/BxZSD2q4ViP1Lbp0wRJB/QAuC0wP1AOx1nofDPwoVzruVhu9HebkTtuB5U7xwfKSkstP7RHrOuAM54tx1hhw==",
+  "dgSpecHash": "VHPWp3hvM+0IT9kaIehAicHAySE0XXE8LpDVXPcgv27B6/UIH4uWCaVfUNpUV/XzwDuXmPe7Te/AozVu8q3iVQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj",
+  "projectFilePath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viss3595\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\viss3595\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

@@ -12694,11 +12694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
+      "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
       "projectName": "Nop.Plugin.Tax.FixedOrByCountryStateZip",
-      "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
+      "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
       "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\obj\\",
+      "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12717,8 +12717,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

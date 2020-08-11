@@ -4091,7 +4091,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Services/4.3.0": {
         "type": "project",
@@ -12345,11 +12348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+      "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
       "projectName": "Nop.Plugin.ExchangeRate.EcbExchange",
-      "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+      "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
       "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\obj\\",
+      "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12368,8 +12371,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
             }
           }
         }

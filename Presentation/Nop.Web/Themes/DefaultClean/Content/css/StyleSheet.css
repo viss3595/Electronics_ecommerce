@@ -1770,7 +1770,6 @@ span.hidden-md, span.hidden-lg {
 
 .header-right {
     float: right;
-    padding: 30px 0;
     width: auto;
 }
 
@@ -2203,7 +2202,7 @@ header .full-header {
     vertical-align: top;
 }
 
-#header-search {
+/*#header-search {
     border-radius: 8px;
     -moz-border-radius: 8px;
     -webkit-border-radius: 8px;
@@ -2214,7 +2213,7 @@ header .full-header {
     background: #f5f5f5;
     padding: 10px;
 }
-
+*/
     #header-search .select-wrapper {
         position: relative;
         width: 150px;

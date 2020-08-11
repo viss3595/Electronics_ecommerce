@@ -9366,11 +9366,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
       "projectName": "Nop.Core",
-      "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
       "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\obj\\",
+      "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

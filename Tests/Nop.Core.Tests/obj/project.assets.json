@@ -4518,7 +4518,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Services/4.3.0": {
         "type": "project",
@@ -13394,11 +13397,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
+      "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
       "projectName": "Nop.Core.Tests",
-      "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
+      "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Tests\\Nop.Core.Tests\\Nop.Core.Tests.csproj",
       "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Tests\\Nop.Core.Tests\\obj\\",
+      "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Tests\\Nop.Core.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13417,8 +13420,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
-              "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Tests\\Nop.Tests\\Nop.Tests.csproj"
+            "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
+              "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj"
             }
           }
         }

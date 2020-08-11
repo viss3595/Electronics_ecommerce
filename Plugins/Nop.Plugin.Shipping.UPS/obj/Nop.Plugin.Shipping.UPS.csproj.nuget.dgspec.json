@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj": {}
+    "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj": {}
   },
   "projects": {
-    "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+    "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "projectName": "Nop.Core",
-        "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\obj\\",
+        "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -112,14 +112,14 @@
         }
       }
     },
-    "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+    "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\Nop.Data.csproj",
+        "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
         "projectName": "Nop.Data",
-        "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\Nop.Data.csproj",
+        "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
         "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\obj\\",
+        "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
               }
             }
           }
@@ -196,14 +196,14 @@
         }
       }
     },
-    "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+    "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj",
+        "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
         "projectName": "Nop.Services",
-        "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj",
+        "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
         "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\obj\\",
+        "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -222,11 +222,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
               },
-              "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+                "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
               }
             }
           }
@@ -295,14 +295,14 @@
         }
       }
     },
-    "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj": {
+    "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
+        "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
         "projectName": "Nop.Plugin.Shipping.UPS",
-        "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
+        "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
         "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Shipping.UPS\\obj\\",
+        "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Shipping.UPS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -321,8 +321,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-                "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+              "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+                "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
               }
             }
           }
@@ -357,14 +357,14 @@
         }
       }
     },
-    "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+    "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+        "projectUniqueName": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
         "projectName": "Nop.Web.Framework",
-        "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+        "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
         "packagesPath": "C:\\Users\\viss3595\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Presentation\\Nop.Web.Framework\\obj\\",
+        "outputPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Presentation\\Nop.Web.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -383,14 +383,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
               },
-              "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+                "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
               },
-              "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-                "projectPath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Libraries\\Nop.Services\\Nop.Services.csproj"
+              "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+                "projectPath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
               }
             }
           }

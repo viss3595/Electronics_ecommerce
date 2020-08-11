@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wRDEXLUgeo9LwEjVDTVxkLUVQNPqMFlPwUu49Iv/Lg3EneSaY7g0qzZRDVQfLoi9OOB7nvlEWo0XF3ceuU9RWg==",
+  "dgSpecHash": "Sm6Jjmcf5kUbxziJlo3FLPKWlHtpT+Mv8WsLpfWYdysJ4akupXaicHf75JoN98RjnBg9oOWVAEPnkGwkGuURwQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\ecommerce\\nopCommerce_4.30_Source\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
+  "projectFilePath": "D:\\Project\\ecommerce\\Design\\Electronics_ecommerce\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viss3595\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\viss3595\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
