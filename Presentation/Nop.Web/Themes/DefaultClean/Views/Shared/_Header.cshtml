@@ -33,12 +33,12 @@
 <div class="container">
     <div class="topHeader">
         <div class="row">
-            <div class="col-md-2 col-sm-2 col-lg-2">
+            <div class="col-md-12 col-sm-2 col-lg-2">
                 <div class="logoimage">
                     @await Component.InvokeAsync("Logo")
                 </div>
             </div>
-            <div class="col-md-10 col-lg-10 col-md-10">
+            <div class="col-md-12 col-lg-10">
                 <div class="header-menu">
                     @await Component.InvokeAsync("TopMenu")
                 </div>
@@ -46,65 +46,74 @@
         </div>
     </div>
     <div class="top-second-header">
-        <div class="col-md-2 col-sm-2 col-lg-3">
-            <div id="tt-megamenu" class="tt-megamenu">
-                <span class="toggle_menu">
-                    <i class="mdi mdi-menu"></i>
-                    <span class="toggle_text">shop categories</span>
-                </span>
-                <div class="tt-mega_menu" style="display: none;">
-                    <ul class="tt_menus_ul">
-                        <li class="tt_menu_item left tt_mm_hassub">
-                            <a href="blogs/blog-grid.html">
-                                <span class="tt_menu_item_heading_title">
+        <div class="row ">
+            <div class="col-12 header-desktop">
+                <div class="col-md-3 col-sm-2 col-lg-3">
+                    <div id="tt-megamenu" class="tt-megamenu">
+                        <span class="toggle_menu">
+                            <i class="mdi mdi-menu"></i>
+                            <span class="toggle_text">shop categories</span>
+                        </span>
+                        <div class="tt-mega_menu" style="display: none;">
+                            <ul class="tt_menus_ul">
+                                <li class="tt_menu_item left tt_mm_hassub">
+                                    <a href="blogs/blog-grid.html">
+                                        <span class="tt_menu_item_heading_title">
 
-                                    blogs
+                                            blogs
 
-                                </span>
-                            </a>
-                            <span class="mobile-nav__sublist-trigger">
-                                <span class="mobile-nav__sublist-expand">
-                                    <i class="mdi mdi-chevron-down" aria-hidden="true"></i>
-                                </span>
-                                <span class="mobile-nav__sublist-contract">
-                                    <i class="mdi mdi-chevron-up" aria-hidden="true"></i>
-                                </span>
-                            </span>
-                            <div class="tt_sub_menu_wrap " style="width:154px">
-                                <div class="tt_sub_menu">
-                                    <ul class="tt_sub_menu_linklist">
-                                        <li>
-                                            <a href="blogs/blog-grid.html" title="">blog grid</a>
-                                        </li>
-                                        <li>
-                                            <a href="blogs/blog-list.html" title="">blog list</a>
-                                        </li>
-                                        <li>
-                                            <a href="blogs/news/upon-of-seasons-earth-dominion.html" title="">blog detail</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
+                                        </span>
+                                    </a>
+                                    <span class="mobile-nav__sublist-trigger">
+                                        <span class="mobile-nav__sublist-expand">
+                                            <i class="mdi mdi-chevron-down" aria-hidden="true"></i>
+                                        </span>
+                                        <span class="mobile-nav__sublist-contract">
+                                            <i class="mdi mdi-chevron-up" aria-hidden="true"></i>
+                                        </span>
+                                    </span>
+                                    <div class="tt_sub_menu_wrap " style="width:154px">
+                                        <div class="tt_sub_menu">
+                                            <ul class="tt_sub_menu_linklist">
+                                                <li>
+                                                    <a href="blogs/blog-grid.html" title="">blog grid</a>
+                                                </li>
+                                                <li>
+                                                    <a href="blogs/blog-list.html" title="">blog list</a>
+                                                </li>
+                                                <li>
+                                                    <a href="blogs/news/upon-of-seasons-earth-dominion.html" title="">blog detail</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
 
-                        <li class="tt_menu_item left_more_menu"><div class="level-top left mega-menu-link"><span class="categories">more<i class="mdi mdi-plus"></i></span></div></li>
-                    </ul>
+                                <li class="tt_menu_item left_more_menu"><div class="level-top left mega-menu-link"><span class="categories">more<i class="mdi mdi-plus"></i></span></div></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-8 col-lg-7 col-md-6">
+                    <div class="header-search">
+                        <div class="search-body">
+                            @await Component.InvokeAsync("SearchBox")
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-2 col-lg-2 col-md-3">
+                    <div class="user-data">
+                        @await Component.InvokeAsync("UserProfile")
+                    </div>
+
+
                 </div>
             </div>
-        </div>
-        <div class="col-sm-8 col-lg-7 col-md-6">
-            <div class="header-search">
-                <div class="search-body">
+            <div class="col-12 header-mobile">
+                <div class="search-body-mobile">
                     @await Component.InvokeAsync("SearchBox")
                 </div>
             </div>
-        </div>
-        <div class="col-sm-2 col-lg-2 col-md-3">
-            <div class="user-data">
-                @await Component.InvokeAsync("UserProfile")
-            </div>
-            
-
         </div>
     </div>
 </div>

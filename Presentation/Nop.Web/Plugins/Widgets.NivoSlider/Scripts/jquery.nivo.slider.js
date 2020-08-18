@@ -348,7 +348,8 @@
             // Generate random effect
             if (settings.effect === 'random') {
                 anims = new Array('sliceDownRight', 'sliceDownLeft', 'sliceUpRight', 'sliceUpLeft', 'sliceUpDown', 'sliceUpDownLeft', 'fold', 'fade',
-                'boxRandom', 'boxRain', 'boxRainReverse', 'boxRainGrow', 'boxRainGrowReverse');
+                    'boxRandom', 'boxRain', 'boxRainReverse', 'boxRainGrow', 'boxRainGrowReverse');
+
                 currentEffect = anims[Math.floor(Math.random() * (anims.length + 1))];
                 if (currentEffect === undefined) { currentEffect = 'fade'; }
             }
@@ -640,7 +641,7 @@
         boxCols: 8,
         boxRows: 4,
         animSpeed: 500,
-        pauseTime: 3000,
+        pauseTime: 15000,
         startSlide: 0,
         directionNav: true,
         controlNav: true,

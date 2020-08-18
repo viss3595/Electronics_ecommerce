@@ -2437,3 +2437,4 @@ D:\Project\ecommerce\Design\Electronics_ecommerce\Presentation\Nop.Web\obj\Debug
 D:\Project\ecommerce\Design\Electronics_ecommerce\Presentation\Nop.Web\obj\Debug\netcoreapp3.1\Nop.Web.pdb
 D:\Project\ecommerce\Design\Electronics_ecommerce\Presentation\Nop.Web\obj\Debug\netcoreapp3.1\Nop.Web.genruntimeconfig.cache
 D:\Project\ecommerce\Design\Electronics_ecommerce\Presentation\Nop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\UserProfile\Default.cshtml.g.cs
+D:\Project\ecommerce\Design\Electronics_ecommerce\Presentation\Nop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CategoryLine.TopMobileMenu.cshtml.g.cs

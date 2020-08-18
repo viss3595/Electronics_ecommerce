@@ -22,8 +22,12 @@
     Html.AppendCssFileParts($"~/Themes/{themeName}/Content/css/font-awesome.min.css");
     //Html.AppendScriptParts($"~/Themes/{themeName}/Content/js/bootstrap.js");
     Html.AppendScriptParts($"~/Themes/{themeName}/Content/js/bootstrap.min.js");
-    Html.AppendScriptParts($"~/Themes/{themeName}/Content/js/jquery.min.js");
-    
+    Html.AppendScriptParts(ResourceLocation.Head, $"~/Themes/{themeName}/Content/js/jquery.min.js");
+    Html.AppendScriptParts(ResourceLocation.Head, $"~/Themes/{themeName}/Content/js/jquery-3.3.1.slim.min.js");
+    Html.AppendScriptParts(ResourceLocation.Footer, $"~/Themes/{themeName}/Content/js/popper.min.js");
+    Html.AppendScriptParts(ResourceLocation.Footer, $"~/Themes/{themeName}/Content/js/jquery.mCustomScrollbar.concat.min.js");
+
+
 
 
     // Html.AppendCssFileParts("~/lib/jquery-ui/jquery-ui-1.12.1.custom/jquery-ui.min.css");
@@ -39,6 +43,9 @@
         Html.AppendCssFileParts($"~/Themes/{themeName}/Content/css/styles.css");
     }
     //add jQuery UI css file
+
+
+
 
 }
 
